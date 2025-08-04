@@ -1,0 +1,1 @@
+This application was created primarily to swap Statuspage subscribers from old components to new components. Essentially, when the landscape changed, there was no simple way to re-subscribe people to the new items.
